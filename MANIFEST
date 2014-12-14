@@ -18,6 +18,7 @@ MANIFEST			This list of files
 META.yml
 README
 share/tbilisi-map.xml
+SIGNATURE
 t/Map-Tube-Tbilisi/00-use.t
 t/Map-Tube-Tbilisi/01-version.t
 t/Map-Tube-Tbilisi/02-pod_coverage.t

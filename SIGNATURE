@@ -1,0 +1,55 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 e8d2710611be4c4de06dcf969e3c043b1c079982 Changes
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 06e4a5f783ca62ef66dd3fcd413f31dd8890c4e2 MANIFEST
+SHA1 12afac593b0658a04a1e65dcfd88d9abcf550e79 META.yml
+SHA1 c4d7ada47ad5a2f509e95585fe7253dce5b395dd Makefile.PL
+SHA1 96228231330e0d25817075c59aeaf877fe7a8b8f README
+SHA1 27d4ef36ea745f1c60f400ee2281368c32a20a07 Tbilisi.pm
+SHA1 2c1fee78cddd51863a5056c401ceb66c66c26249 examples/ex1.pl
+SHA1 ba9eca4bf103c6c499ee06bfc42a414d1bcf8953 examples/ex2.pl
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 e1d6c2df9c689dc3791965bb1d19935e124411ca share/tbilisi-map.xml
+SHA1 846954c33fcacd8c8d92fa55b27fe0b4348f4332 t/Map-Tube-Tbilisi/00-use.t
+SHA1 9fb90338ae298ff6b882c71752e577a12ec3c6b7 t/Map-Tube-Tbilisi/01-version.t
+SHA1 05edeec779cd9bcae886f8ce06f9552ab264a9c4 t/Map-Tube-Tbilisi/02-pod_coverage.t
+SHA1 9f7d75e1dbe72a431cbcd2a1eacdfe36589afcf5 t/Map-Tube-Tbilisi/03-pod.t
+SHA1 9bcec3429155c8ec23fba07ead12d76bf17c5b55 t/Map-Tube-Tbilisi/04-get_shortest_route.t
+SHA1 c66a7839179bd74f0b369f6438f39c31d7d92696 t/Map-Tube-Tbilisi/05-name.t
+SHA1 b2f59a4fecb120d819786a7a3a7ef6e05db24075 t/Map-Tube-Tbilisi/06-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUjYYFAAoJEAwa+cf4dLBaK4UH/jTZDy8qRN3g3YCyUpf3nyuA
+F2V3kHLpf+ZskkCFxsqZd2QtJ5d7AZEplVB9sFCGOKyXxSdeS07SeKwD03mi3PMD
+KpkahzFV9Cudm6ZE1cxOLx9m7t6uhBguEzyBvzqndQtz6YYhzrghqM0zCnbmklTN
+k7git7+aoNwRJIcaN210zJmvy3OXZ2RGJNlKztMOLn82w8cTs1Gl5moPrSTxBFqd
+UQqz5cjFmgZeS1DZJGhul/1VccVR8Omg/aRGqEkisIr6XMyhN9LlVvl9r5kIT7Bo
+LhJs/ZskeaOVZEDw5c6tOShdNStJS9SrYOYLU9eFksJGh2F/RrFY3z8YHI5ysbo=
+=mY3n
+-----END PGP SIGNATURE-----
