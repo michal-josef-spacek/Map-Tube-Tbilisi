@@ -1,4 +1,4 @@
-0.02
+0.02 2015-01-03T11:57:43+01:00
  - Add EXAMPLE3 section to doc.
  - Add Map::Tube::GraphViz, Map::Tube::Text::Table, Task::Map::Tube,
    Map::Tube::Budapest, Map::Tube::Dnipropetrovsk, Map::Tube::Nanjing,
