@@ -11,7 +11,7 @@ use Moo;
 use namespace::clean;
 
 # Version.
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 # Get XML.
 has xml => (
@@ -241,6 +241,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.02
+0.03
 
 =cut
