@@ -1,5 +1,6 @@
 0.02
  - Add get_lines() method to doc.
+ - Add get_stations() method to doc.
  - Remove executable bit from tbilisi-map.xml file.
  - Update copyright years to 2015.
 

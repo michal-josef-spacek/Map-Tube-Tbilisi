@@ -42,6 +42,7 @@ Map::Tube::Tbilisi - Interface to the Tbilisi Metro Map.
  my $station = $obj->get_node_by_id($station_id);
  my $station = $obj->get_node_by_name($station_name);
  my $route = $obj->get_shortest_route($from, $to);
+ my $stations_ar = $obj->get_stations($line);
  my $metro_name = $obj->name;
  my $xml_file = $obj->xml;
 
@@ -89,6 +90,11 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
 
  Get metro name.
  Returns string with metro name.
+
+=item C<get_stations($line)>
+
+ Get list of stations for concrete metro line.
+ Returns reference to array with Map::Tube::Node objects.
 
 =item C<xml()>
 
