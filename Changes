@@ -1,5 +1,6 @@
 0.03
  - Add Map::Tube::Graph to SEE ALSO section in doc.
+ - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
 
 0.02 2015-01-03T11:57:43+01:00
  - Add EXAMPLE3 section to doc.
