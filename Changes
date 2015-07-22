@@ -1,7 +1,6 @@
 0.03
  - Add <?xml> header to XML document.
- - Add Map::Tube::Graph to SEE ALSO section in doc.
- - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
+ - Rewrite SEE ALSO section to new style.
 
 0.02 2015-01-03T11:57:43+01:00
  - Add EXAMPLE3 section to doc.
