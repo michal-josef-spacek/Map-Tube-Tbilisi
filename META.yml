@@ -6,6 +6,7 @@ build_requires:
   Encode: 0
   English: 0
   ExtUtils::MakeMaker: 6.36
+  Test::Map::Tube: 0.06
   Test::More: 0
   Test::NoWarnings: 0
 configure_requires:

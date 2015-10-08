@@ -31,6 +31,7 @@ resources 'homepage' => 'https://github.com/tupinek/Map-Tube-Tbilisi';
 resources 'repository' => 'git://github.com/tupinek/Map-Tube-Tbilisi';
 test_requires 'Encode' => 0;
 test_requires 'English' => 0;
+test_requires 'Test::Map::Tube' => 0.06;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;
