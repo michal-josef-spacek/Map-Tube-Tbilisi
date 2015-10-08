@@ -137,6 +137,28 @@ EXAMPLE3
      # Output like:
      # -rw-r--r-- 1 skim skim 68209 Jan  3 11:56 Tbilisi.png
 
+EXAMPLE4
+     # Pragmas.
+     use strict;
+     use warnings;
+
+     # Modules.
+     use Encode qw(encode_utf8);
+     use Map::Tube::Tbilisi;
+
+     # Object.
+     my $obj = Map::Tube::Tbilisi->new;
+
+     # Get lines.
+     my $lines_ar = $obj->get_lines;
+
+     # Print out.
+     map { print encode_utf8($_->name)."\n"; } sort @{$lines_ar};
+
+     # Output:
+     # ახმეტელი-ვარკეთილის ხაზი
+     # საბურთალოს ხაზი
+
 DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
