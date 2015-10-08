@@ -3,6 +3,7 @@
  - Add 04-map.t test.
  - Add EXAMPLE4 to doc.
  - Add get_line_by_id() and get_line_by_name() methods to doc.
+ - Add tests for get_node_by_id() and get_node_by_name() methods.
  - Move author tests to xt/ directory.
  - Rewrite SEE ALSO section to new style.
  - Update Module::Install to 1.16 version.
