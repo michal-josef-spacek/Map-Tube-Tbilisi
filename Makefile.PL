@@ -21,7 +21,7 @@ name 'Map-Tube-Tbilisi';
 readme_from 'Tbilisi.pm';
 recursive_author_tests('xt');
 requires 'File::Share' => 0;
-requires 'Map::Tube' => '3.01';
+requires 'Map::Tube' => '3.06';
 requires 'Moo' => 0;
 requires 'namespace::clean' => 0;
 requires 'perl' => '5.8.0';
