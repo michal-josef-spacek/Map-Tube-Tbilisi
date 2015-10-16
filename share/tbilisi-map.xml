@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ka.wikipedia.org/wiki/თბილისის_მეტროპოლიტენი -->
 <tube name="თბილისის მეტროპოლიტენი">
-  <!-- https://ka.wikipedia.org/wiki/თბილისის_მეტროპოლიტენი -->
+  <lines>
+    <line id="1" name="ახმეტელი-ვარკეთილის ხაზი" color="red"/>
+    <line id="2" name="საბურთალოს ხაზი" color="green"/>
+  </lines>
   <stations>
     <!-- Junctions -->
     <station id="სადგურის_მოედანი" name="სადგურის მოედანი" line="ახმეტელი-ვარკეთილის ხაზი,საბურთალოს ხაზი" link="1-07,1-09,2-02"/>

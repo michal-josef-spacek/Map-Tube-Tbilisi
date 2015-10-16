@@ -1,4 +1,5 @@
 0.04
+ - Add lines to XML document.
  - Improve description for get_lines() in doc.
  - Update to Map::Tube 3.06.
 
