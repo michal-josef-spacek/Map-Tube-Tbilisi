@@ -1,4 +1,5 @@
 0.05
+ - Rewrite XML map to new version without junctions.
 
 0.04 2015-10-16T11:54:00+02:00
  - Add lines to XML document.
