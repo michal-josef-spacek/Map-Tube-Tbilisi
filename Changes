@@ -1,4 +1,5 @@
 0.05
+ - Add EXAMPLE5 section to doc.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
