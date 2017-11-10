@@ -1,5 +1,6 @@
 0.05
  - Add EXAMPLE5 section to doc.
+ - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
