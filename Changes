@@ -5,6 +5,7 @@
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
  - Update Module::Install to 1.18 version.
+ - Update author name.
 
 0.04 2015-10-16T11:54:00+02:00
  - Add lines to XML document.
