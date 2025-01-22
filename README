@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Tbilisi;
 
@@ -88,12 +86,10 @@ EXAMPLE1
      # Route: სარაჯიშვილი (ახმეტელი-ვარკეთილის ხაზი), გურამიშვილი (ახმეტელი-ვარკეთილის ხაზი), ღრმაღელე (ახმეტელი-ვარკეთილის ხაზი), დიდუბე (ახმეტელი-ვარკეთილის ხაზი), გოცირიძე (ახმეტელი-ვარკეთილის ხაზი), ნაძალადევი (ახმეტელი-ვარკეთილის ხაზი), სადგურის მოედანი (საბურთალოს ხაზი), წერეთელი (საბურთალოს ხაზი), ტექნიკური უნივერსიტეტი (საბურთალოს ხაზი), სამედიცინო უნივერსიტეტი (საბურთალოს ხაზი), დელისი (საბურთალოს ხაზი)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use utf8;
      use warnings;
 
-     # Modules.
      use Map::Tube::Tbilisi;
 
      # Object.
@@ -109,11 +105,9 @@ EXAMPLE2
      # XML file: .*/tbilisi-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::Tbilisi;
@@ -138,11 +132,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 68209 Jan  3 11:56 Tbilisi.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Tbilisi;
 
@@ -160,11 +152,9 @@ EXAMPLE4
      # საბურთალოს ხაზი
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Tbilisi;
 
