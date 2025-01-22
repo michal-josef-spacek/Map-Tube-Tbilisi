@@ -191,8 +191,8 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Tbilisi/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Tbilisi/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Tbilisi/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Tbilisi/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
 </a>
 
 =end html
@@ -287,7 +287,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Tbilisi>
+L<https://github.com/michal-josef-spacek/Map-Tube-Tbilisi>
 
 =head1 AUTHOR
 
