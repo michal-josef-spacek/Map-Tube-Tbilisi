@@ -115,6 +115,8 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
 
 =head1 EXAMPLE1
 
+=for comment filename=print_tbilisi_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
 
 =head1 EXAMPLE2
 
+=for comment filename=print_tbilisi_def_xml_file.pl
+
  use strict;
  use utf8;
  use warnings;
@@ -154,6 +158,8 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
  # XML file: .*/tbilisi-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_tbilisi_image.pl
 
  use strict;
  use warnings;
@@ -191,6 +197,8 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
 
 =head1 EXAMPLE4
 
+=for comment filename=print_tbilisi_lines.pl
+
  use strict;
  use warnings;
 
@@ -211,6 +219,8 @@ For more information about Tbilisi Map, click L<here|https://en.wikipedia.org/wi
  # საბურთალოს ხაზი
 
 =head1 EXAMPLE5
+
+=for comment filename=print_tbilisi_line_stations.pl
 
  use strict;
  use warnings;

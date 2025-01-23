@@ -4,6 +4,7 @@
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Fix stations on multiple lines.
  - Implement station order.
+ - Rename examples to better names.
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
  - Update Module::Install to 1.21 version.
