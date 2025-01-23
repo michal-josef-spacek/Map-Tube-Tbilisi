@@ -6,6 +6,8 @@
     <line id="2" name="საბურთალოს ხაზი" color="green"/>
   </lines>
   <stations>
+    <!-- Stations on multiple lines -->
+    <station id="1-08" name="სადგურის მოედანი" line="1:8,2:1" link="1-07,1-09,2-02"/>
 
     <!-- https://ka.wikipedia.org/wiki/ახმეტელი-ვარკეთილის_ხაზი -->
     <station id="1-01" name="ახმეტელის თეატრი" line="1:1" link="1-02"/>
@@ -15,7 +17,7 @@
     <station id="1-05" name="დიდუბე" line="1:5" link="1-04,1-06"/>
     <station id="1-06" name="გოცირიძე" line="1:6" link="1-05,1-07"/>
     <station id="1-07" name="ნაძალადევი" line="1:7" link="1-06,1-08"/>
-    <station id="1-08" name="სადგურის მოედანი" line="1:8" link="1-07,1-09" other_link="Tunnel:2-01"/>
+    <!-- სადგურის მოედანი -->
     <station id="1-09" name="მარჯანიშვილი" line="1:9" link="1-08,1-10"/>
     <station id="1-10" name="რუსთაველი" line="1:10" link="1-09,1-11"/>
     <station id="1-11" name="თავისუფლების მოედანი" line="1:11" link="1-10,1-12"/>
@@ -26,8 +28,8 @@
     <station id="1-16" name="ვარკეთილი" line="1:16" link="1-15"/>
 
     <!-- https://ka.wikipedia.org/wiki/საბურთალოს_ხაზი -->
-    <station id="2-01" name="სადგურის მოედანი" line="2:1" link="2-02" other_link="Tunnel:1-08"/>
-    <station id="2-02" name="წერეთელი" line="2:2" link="2-01,2-03"/>
+    <!-- სადგურის მოედანი -->
+    <station id="2-02" name="წერეთელი" line="2:2" link="1-08,2-03"/>
     <station id="2-03" name="ტექნიკური უნივერსიტეტი" line="2:3" link="2-02,2-04"/>
     <station id="2-04" name="სამედიცინო უნივერსიტეტი" line="2:4" link="2-03,2-05"/>
     <station id="2-05" name="დელისი" line="2:5" link="2-04,2-06"/>
